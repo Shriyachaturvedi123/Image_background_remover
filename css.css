@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+  }
+  
+  #imageInput {
+    display: block;
+    margin: 40px auto;
+  }
+  
+  #resultContainer {
+    text-align: center;
+    margin-top: 70px;
+  }
+  
+  #resultContainer img {
+    max-width: 500px;
+  }
+body{
+  background-color: cadetblue;
+}
